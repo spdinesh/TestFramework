@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Activation API Test Automation" duration-ms="23422" started-at="2019-04-02T06:46:35Z" finished-at="2019-04-02T06:46:58Z">
+    <groups>
+    </groups>
+    <test name="Activation API Test Report" duration-ms="23422" started-at="2019-04-02T06:46:35Z" finished-at="2019-04-02T06:46:58Z">
+      <class name="com.testframework.TestSuite">
+        <test-method status="PASS" signature="init()[pri:0, instance:com.testframework.TestSuite@46d56d67]" name="init" is-config="true" duration-ms="5001" started-at="2019-04-02T12:16:35Z" finished-at="2019-04-02T12:16:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="test(java.lang.String)[pri:0, instance:com.testframework.TestSuite@46d56d67]" name="test" duration-ms="18407" started-at="2019-04-02T12:16:40Z" data-provider="login" finished-at="2019-04-02T12:16:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- com.testframework.TestSuite -->
+    </test> <!-- Activation API Test Report -->
+  </suite> <!-- Activation API Test Automation -->
+</testng-results>

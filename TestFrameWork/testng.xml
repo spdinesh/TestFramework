@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Activation API Test Automation">
+	
+
+	<test name="Activation API Test Report">
+		<classes>
+			<class name="com.testframework.TestSuite" /> 
+		</classes>
+	</test> 
+</suite> 
